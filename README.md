@@ -1,4 +1,4 @@
-# Projeto Proffy - Mobile
+# Projeto Proffy - mobile
 
 ###### O projeto
 
