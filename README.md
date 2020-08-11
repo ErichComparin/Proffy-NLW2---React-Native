@@ -97,8 +97,8 @@ $ yarn install
 $ yarn start
 
 # Expo Developer Tools será aberto na porta 19002 - acesse http://localhost:19002
-# Ajustar a baseURL da API em ./services/api.ts para o exibido no Expo Developer Tools (Abaixo de CONNECTION - LAN)
-# Para executar em um dispositivo Android, faça o download do Expo na Play Store e escaneie o QR Code.
+# Ajustar a baseURL da API em ./services/api.ts para o IP exibido no Expo Developer Tools (Abaixo de CONNECTION - LAN) e porta 333
+# Para executar em um dispositivo Android, faça o download do Expo na Play Store e escaneie o QR Code
 
 ```
 
