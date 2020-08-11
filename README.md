@@ -74,7 +74,7 @@ Acessar o repositório da aplicação web: [![Github Badge](https://img.shields.
 
 ## 🎨 Layout
 
-<!-->
+<!--
 - Landing Page
 <img alt="Landing Page" src="./readme/web1.jpg?raw=true">
 
@@ -90,7 +90,7 @@ Acessar o repositório da aplicação web: [![Github Badge](https://img.shields.
 
 ## 🚀 Como executar o projeto
 
-<!-->
+<!--
 ```bash
 
 # Clone este repositório
@@ -115,7 +115,7 @@ $ yarn start
 
 ## 🛠 Tecnologias
 
-<!-->
+<!--
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
