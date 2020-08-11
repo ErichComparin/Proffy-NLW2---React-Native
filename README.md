@@ -82,14 +82,13 @@ Acessar o repositório da aplicação web: [![Github Badge](https://img.shields.
 
 ## 🚀 Como executar o projeto
 
-<!--
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/ErichComparin/Proffy-NLW2---ReactJS.git
+$ git clone https://github.com/ErichComparin/Proffy-NLW2---React-Native.git
 
 # Acesse a pasta do projeto
-$ cd Proffy-NLW2---ReactJS
+$ cd Proffy-NLW2---React-Native
 
 # Instale as dependências
 $ yarn install
@@ -97,13 +96,11 @@ $ yarn install
 # Execute a aplicação
 $ yarn start
 
-# A aplicação web será aberta na porta:3000 - acesse http://localhost:3000
+# Expo Developer Tools será aberto na porta 19002 - acesse http://localhost:19002
+# Ajustar a baseURL da API em ./services/api.ts para o exibido no Expo Developer Tools (Abaixo de CONNECTION - LAN)
+# Para executar em um dispositivo Android, faça o download do Expo na Play Store e escaneie o QR Code.
 
 ```
--->
-🚧🚧 Em construção 🚧🚧
-
----
 
 ## 🛠 Tecnologias
 
