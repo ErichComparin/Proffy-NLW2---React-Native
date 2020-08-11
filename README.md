@@ -109,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Mobile**  ([React Native](https://reactnative.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://docs.expo.io/)**
-<br />**[Font](https://docs.expo.io/versions/latest/sdk/font/)**
+<br />    **[Font](https://docs.expo.io/versions/latest/sdk/font/)**
 <br />**[GestureHandler](https://docs.expo.io/versions/latest/sdk/gesture-handler/)**
 <br />**[Reanimated](https://docs.expo.io/versions/latest/sdk/reanimated/)**
 <br />**[Screens](https://docs.expo.io/versions/v38.0.0/sdk/screens/)**
