@@ -97,22 +97,26 @@ $ yarn install
 $ yarn start
 
 # Expo Developer Tools será aberto na porta 19002 - acesse http://localhost:19002
-# Ajustar a baseURL da API em ./services/api.ts para o IP exibido no Expo Developer Tools (Abaixo de CONNECTION - LAN) e porta 333
+# Ajustar a baseURL da API em ./services/api.ts para o IP exibido no Expo Developer Tools (Abaixo de CONNECTION - LAN) e porta 3333
 # Para executar em um dispositivo Android, faça o download do Expo na Play Store e escaneie o QR Code
 
 ```
 
 ## 🛠 Tecnologias
 
-<!--
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Mobile**  ([React Native](https://reactnative.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+-   **[Expo](https://docs.expo.io/)**
+  -   **[Font](https://docs.expo.io/versions/latest/sdk/font/)**
+  -   **[GestureHandler](https://docs.expo.io/versions/latest/sdk/gesture-handler/)**
+  -   **[Reanimated](https://docs.expo.io/versions/latest/sdk/reanimated/)**
+  -   **[Screens](https://docs.expo.io/versions/v38.0.0/sdk/screens/)**
+  -   **[SafeAreaContext](https://docs.expo.io/versions/latest/sdk/safe-area-context/)**
+-   **[React Navigation](https://reactnavigation.org/)**
 -   **[Axios](https://github.com/axios/axios)**
--->
-🚧🚧 Em construção 🚧🚧
+-   **[AsyncStorage](https://reactnative.dev/docs/asyncstorage)**
 
 ---
 
