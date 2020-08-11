@@ -57,34 +57,26 @@ Acessar o repositório da aplicação web: [![Github Badge](https://img.shields.
 
 ## ⚙️ Funcionalidades
 
-<!--
-- [x] Professores podem cadastrar:
-  - [x] perfil
-  - [x] aulas
-  - [x] horários
-
 - [x] Alunos podem buscar aulas de professores filtrando por: 
   - [x] matéria
   - [x] dia da semana
   - [x] horário
--->
-🚧🚧 Em construção 🚧🚧
+
+- [x] Alunos podem adicionar/remover professores dos favoritos
+- [x] Alunos podem visualizar os professores favoritos
 
 ---
 
 ## 🎨 Layout
 
-<!--
 - Landing Page
-<img alt="Landing Page" src="./readme/web1.jpg?raw=true">
+<img alt="Landing Page" src="./readme/mobile1.jpg?raw=true">
 
-- Cadastro do professor, aula e horários
-<img alt="Landing Page" src="./readme/web2.jpg?raw=true">
+- Dar aulas
+<img alt="Dar aulas" src="./readme/mobile2.jpg?raw=true">
 
 - Consulta de aulas
-<img alt="Landing Page" src="./readme/web3.jpg?raw=true">
--->
-🚧🚧 Em construção 🚧🚧
+<img alt="Consulta de aulas" src="./readme/mobile3.jpg?raw=true">
 
 ---
 
