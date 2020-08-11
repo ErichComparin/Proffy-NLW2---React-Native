@@ -109,11 +109,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Mobile**  ([React Native](https://reactnative.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://docs.expo.io/)**
+
   -   **[Font](https://docs.expo.io/versions/latest/sdk/font/)**
   -   **[GestureHandler](https://docs.expo.io/versions/latest/sdk/gesture-handler/)**
   -   **[Reanimated](https://docs.expo.io/versions/latest/sdk/reanimated/)**
   -   **[Screens](https://docs.expo.io/versions/v38.0.0/sdk/screens/)**
   -   **[SafeAreaContext](https://docs.expo.io/versions/latest/sdk/safe-area-context/)**
+
 -   **[React Navigation](https://reactnavigation.org/)**
 -   **[Axios](https://github.com/axios/axios)**
 -   **[AsyncStorage](https://reactnative.dev/docs/asyncstorage)**
