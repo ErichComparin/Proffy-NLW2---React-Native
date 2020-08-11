@@ -57,7 +57,7 @@ Acessar o repositório da aplicação web: [![Github Badge](https://img.shields.
 
 ## ⚙️ Funcionalidades
 
-<!-->
+<!--
 - [x] Professores podem cadastrar:
   - [x] perfil
   - [x] aulas
