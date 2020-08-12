@@ -116,7 +116,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     -   **[SafeAreaContext](https://docs.expo.io/versions/latest/sdk/safe-area-context/)**
 -   **[React Navigation](https://reactnavigation.org/)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[AsyncStorage](https://reactnative.dev/docs/asyncstorage)**
+-   **[AsyncStorage](https://react-native-community.github.io/async-storage/)**
 
 ---
 
