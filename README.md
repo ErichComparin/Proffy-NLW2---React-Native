@@ -1,7 +1,7 @@
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/Proffy-NLW2---React-Native?style=flat-square" />
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/Proffy_NLW2-Mobile?style=flat-square" />
   
-  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/Proffy-NLW2---React-Native?style=flat-square" />
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/Proffy_NLW2-Mobile?style=flat-square" />
 
   <a href="https://github.com/ErichComparin">
     <img alt="Feito por Erich Comparin" src="https://img.shields.io/badge/feito%20por-Erich%20Comparin-orange?style=flat-square" />
@@ -85,7 +85,7 @@ Acessar o repositório da aplicação web: [![Github Badge](https://img.shields.
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/ErichComparin/Proffy-NLW2---React-Native.git
+$ git clone https://github.com/ErichComparin/Proffy_NLW2-Mobile.git
 
 # Acesse a pasta do projeto
 $ cd Proffy-NLW2---React-Native
